@@ -7,4 +7,4 @@
 
 Modified the version of: https://github.com/FarshidNooshi/Pacman-Projects 
 
-Made for and assignment of CSE422 - Artificial Intelligence - Brac University 
+Made for an non-graded assignment of CSE422 - Artificial Intelligence - Brac University 
